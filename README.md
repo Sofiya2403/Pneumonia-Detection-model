@@ -194,5 +194,3 @@ Pneumonia-Detection/
 ---
 
 
-
-Specify a license (e.g., MIT) or add a LICENSE file.
